@@ -59,9 +59,7 @@ Le projet sera accessible sur http://localhost:5173
 
 📸 Aperçu
 
-
-![Aperçu](./publi/Capture.png)
-
+c:/Users/ulrichleblack/ulb-social/public/Capture.png
 
 👨‍💻 Auteur
 
