@@ -59,7 +59,8 @@ Le projet sera accessible sur http://localhost:5173
 
 📸 Aperçu
 
-![alt text](Capture.png)
+
+![Aperçu](./publi/Capture.png)
 
 
 👨‍💻 Auteur
