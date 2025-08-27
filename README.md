@@ -59,7 +59,7 @@ Le projet sera accessible sur http://localhost:5173
 
 📸 Aperçu
 
-https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/ulrichleblack/Desktop/Capture.PNG?version%3D1756309917505
+![alt text](Capture.png)
 
 
 👨‍💻 Auteur
