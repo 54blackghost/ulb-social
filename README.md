@@ -1,12 +1,72 @@
-# React + Vite
+# 🌐 Mon Site Web - ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue sur le dépôt de mon site web personnel/professionnel développé avec **ReactJS**.  
+Ce projet présente [👉 décris brièvement ton site : portfolio, blog, application, etc.].
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Technologies utilisées
+- ⚛️ [ReactJS](https://react.dev/) - Bibliothèque JavaScript pour l'UI
+- 🎨 [Tailwind CSS ] - Styles et design responsive
+- 📦 [Vite / Create React App] - Outil de build et dev server rapide
+- 🌙 [react-hot-toast / framer-motion / autres libs] *(si tu en as utilisé)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Lancement
+
+### 1️⃣ Cloner le projet
+```bash
+git clone https://github.com/mon-compte/mon-projet.git
+cd mon-projet
+
+2️⃣ Installer les dépendances
+
+npm install
+# ou
+yarn install
+
+3️⃣ Lancer le serveur de développement
+npm run dev
+# ou
+yarn dev
+
+
+Le projet sera accessible sur http://localhost:5173
+ (Vite) ou http://localhost:3000
+
+
+📂 Structure du projet
+
+/mon-projet
+ ├── /src
+ │   ├── /components   # Composants réutilisables
+ │   ├── App.jsx       # Point d’entrée de l’application
+ │   └── main.jsx      # Bootstrap de React avec Vite
+ ├── package.json
+ └── README.md
+
+
+🌟 Fonctionnalités
+
+✅ Design responsive
+
+✅ Navigation fluide avec React Router
+
+✅ Intégration d’animations et d’icônes
+
+✅ Formulaire de contact avec API Web3Forms
+
+📸 Aperçu
+
+https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/ulrichleblack/Desktop/Capture.PNG?version%3D1756309917505
+
+
+👨‍💻 Auteur
+
+Développé avec ❤️ par Ulrich LeBlack
+
+Portfolio: https://ulrichleblack.vercel.app/
+
+LinkedIn: https://www.linkedin.com/in/ulrich-leblack-7a803220a/
+
